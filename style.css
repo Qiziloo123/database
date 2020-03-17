@@ -1,0 +1,36 @@
+ 
+ *{
+margin: 0px;
+padding: 0px;
+box-sizing: 0px;
+ 	}
+
+.img-fluid{
+	width: 500px!important;
+	height: 300px;
+}
+ .carousel-inner img {
+    width: 100%;
+    height: 90vh;
+  }
+  .aboutimg{
+  	width: 100%;
+  	height: 250px:!important;
+  }
+  #btn_cate{
+	text-align: center;
+	margin-left: 60px;
+	height: 50px;
+	width: 80px;
+}
+.category{ 
+	align-self: center;
+	height:50px;
+	width: 100%;
+	margin-left: 0px;
+}
+a{
+	text-decoration: none;
+}
+
+

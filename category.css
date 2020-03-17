@@ -1,0 +1,15 @@
+p{
+	text-align: center;
+	font-size: 20px;
+}
+.btn{
+	float: right;
+
+}
+.text-center{
+	background-color: lightblue;
+display: block;
+}
+.txt{
+	text-align: center;
+}
